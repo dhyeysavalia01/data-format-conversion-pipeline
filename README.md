@@ -1,4 +1,4 @@
-# Day 1 — Data Engineering Foundations
+# data-format-conversion-pipeline
 
 ## Objective
 Learn Linux CLI, filesystem operations, environment variables,
